@@ -2,13 +2,13 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student | Department of Computer Science, <a herf="https://www.uos.ac.kr>Univerisy of Seoul</a>.
+subtitle: Master's student | Department of Computer Science, <a herf="https://www.uos.ac.kr">Univerisy of Seoul</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
+    <p></p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"

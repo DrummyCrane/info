@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Master's student | Department of Computer Science, <a herf="https://www.uos.ac.kr">Univerisy of Seoul</a>.
+subtitle: Master's student @ <a herf="https://hcail.uos.ac.kr">HCAIL</a>.| Department of Computer Science, <a herf="https://www.uos.ac.kr">Univerisy of Seoul</a>.
 
 profile:
   align: right

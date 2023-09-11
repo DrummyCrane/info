@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: @ <a href="https://hcail.uos.ac.kr/">HCAIL</a>.|
+subtitle: Thanks <a href="https://hcail.uos.ac.kr/">HCAIL</a>.
 
 profile:
   align: right

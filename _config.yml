@@ -207,7 +207,7 @@ scholar:
   last_name: Jeong
   first_name: [Hyeonhak]
 
-  style: apa
+  style: acm-sig-proceedings
   locale: en
 
   source: /_bibliography/

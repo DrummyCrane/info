@@ -204,8 +204,8 @@ jekyll-archives:
 
 scholar:
 
-  last_name: Hyeonhak
-  first_name: [Jeong, J.]
+  last_name: Jeong
+  first_name: [Hyeonhak]
 
   style: apa
   locale: en

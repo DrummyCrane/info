@@ -47,7 +47,7 @@
             - Analyzing interview results using an open-coding method.
             - Deriving design opportunities from user test results.
     - title: Student Volunteer
-      institution: CSCW'20, IUI'21, CHI'21, MobileHCI'21, ASSET'21, TEI'22, SIGCHI Korea, FAccT'22
+      department: CSCW'20, IUI'21, CHI'21, MobileHCI'21, ASSET'21, TEI'22, SIGCHI Korea, FAccT'22
       year: 2020-2022
       description:
         - Managing presentation sessions to support presenters at online conferences using Zoom, Discord, or Midspace.
@@ -58,13 +58,13 @@
       year: 2021-2022
 
 - title: Certificates
-  type: list
+  type: map
   contents:
-    - title: Engineer Information Processing
-      institution: Human Resources Development Service of Korea
+    - name: Engineer Information Processing
+      value: Human Resources Development Service of Korea
     
-    - title: SQL Developer
-      institution: Korea Data Agency
+    - name: SQL Developer
+      value: Korea Data Agency
     
-    - title: Advanced Data Analytics Semi-Professional
-      institution: Korea Data Agency
+    - name: Advanced Data Analytics Semi-Professional
+      value: Korea Data Agency

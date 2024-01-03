@@ -25,4 +25,4 @@ social: true  # includes social icons at the bottom of the page
 
 ---
 
-I recently received Master's and Bachelor's degree in Computer Science from [Univerisy of Seoul](https://www.uos.ac.kr/)</a>. My research interest lies in: Human-Computer Interaction, Artificial Intelligence, Visualization, and Web Accessibility.
+I recently received Master's and Bachelor's degree in Computer Science from [Univerisy of Seoul](https://www.uos.ac.kr/). My research interest lies in: Human-Computer Interaction, Artificial Intelligence, Visualization, and Web Accessibility.

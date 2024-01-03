@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /projects/
-title: projects
+title: Projects
 nav: true
 nav_order: 4
 pagination:
